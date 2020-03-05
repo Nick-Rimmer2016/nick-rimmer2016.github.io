@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Nick's Github Pages   
 
-You can use the [editor on GitHub](https://github.com/Nick-Rimmer2016/nick-rimmer2016.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
