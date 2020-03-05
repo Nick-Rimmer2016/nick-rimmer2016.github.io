@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Split String and Cast Date"
 ---
 
-# Welcome
+## Let's split a string variable and cast the date
 
-**Hello world**, this is my first Jekyll blog post.
 
-I hope you like it!
+```
+$string = 'srv1 02-Dec-19'
+$server,$strdate = $string.split(' ')
+[datetime]$date = [datetime]::parseexact($strdate, 'dd-MMM-yy', $null).ToString('dd-MM-yyyy')
+```   
