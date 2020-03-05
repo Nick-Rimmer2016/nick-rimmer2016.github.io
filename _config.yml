@@ -30,7 +30,7 @@ twitter_username: https://twitter.com/ThePSCoder
 github_username:  Nick-Rimmer2016
 
 # Build settings
-theme: jekyll-theme-hacker
+remote_theme: remote_theme:jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
