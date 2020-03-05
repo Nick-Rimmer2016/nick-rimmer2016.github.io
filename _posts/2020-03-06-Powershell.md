@@ -3,7 +3,7 @@ layout: post
 title:  "Split String and Cast Date"
 ---
 
-## Let's split a string variable and cast the date
+### Nick Rimmer
 
 
 ```
