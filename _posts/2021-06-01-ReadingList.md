@@ -5,7 +5,7 @@ title:  "Reading List"
 
 ### Nick Rimmer
 
-## This is books I have read and recommend !   
+## This is books I have read and recommend ! Click on the links to see the description !   
 
 
 | Book   |      Author      |  Where Can I get It ! |
